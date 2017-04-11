@@ -1,0 +1,26 @@
+# Restricts sender addresses this system accepts in MAIL FROM commands.
+tld.pl			REJECT	BANNED!
+globaletrade.eu		REJECT	BANNED!
+tlum24.pl		REJECT	BANNED!
+8led.pl			REJECT	BANNED!
+openmailing.pl		REJECT	BANNED!
+szkolenia-dla-lekarzy.pl	REJECT	BANNED!
+ohx.pl			REJECT	BANNED!
+sejfik.com		REJECT	BANNED!
+tideemail.pl		REJECT	BANNED!
+yourbankers.pl		REJECT	BANNED!
+freshmail.pl		REJECT	BANNED!
+newsletter-hub.com	REJECT	BANNED!
+kontimex.eu		REJECT	BANNED!
+globaletrade.eu		REJECT	BANNED!
+szybkie-tlumaczenia.pl	REJECT	BANNED!
+new-horizons.pl		REJECT	BANNED!
+zooboo.me		REJECT	BANNED!
+sldc.eu			REJECT	BANNED!
+slaskdatacenter.pl	REJECT	BANNED!
+sare.pl			REJECT	BANNED!
+expertsender.pl		REJECT	BANNED!
+mailingo.pl		REJECT	BANNED!
+sarigato.com		REJECT	BANNED!
+aweber.com		REJECT	BANNED!
+adboks.com		REJECT	BANNED!
