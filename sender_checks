@@ -1,4 +1,6 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
+dodajadres.pl		REJECT	BANNED!
+polecamy.xyz		REJECT	BANNED!
 tld.pl			REJECT	BANNED!
 globaletrade.eu		REJECT	BANNED!
 tlum24.pl		REJECT	BANNED!
