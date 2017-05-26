@@ -1,4 +1,5 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
+blendle.com		REJECT	BANNED!
 dodajadres.pl		REJECT	BANNED!
 polecamy.xyz		REJECT	BANNED!
 tld.pl			REJECT	BANNED!
