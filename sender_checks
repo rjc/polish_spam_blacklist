@@ -1,4 +1,5 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
+e-send.pl		REJECT	BANNED!
 hotelprezydent.com	REJECT	BANNED!
 ofertait.pl		REJECT	BANNED!
 blendle.com		REJECT	BANNED!
