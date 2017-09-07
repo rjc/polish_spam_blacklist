@@ -1,5 +1,5 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
-mediaexpln.pl		REJEVT	BANNED!
+mediaexpln.pl		REJECT	BANNED!
 biznes2b.pl		REJECT	BANNED!
 e-send.pl		REJECT	BANNED!
 hotelprezydent.com	REJECT	BANNED!
