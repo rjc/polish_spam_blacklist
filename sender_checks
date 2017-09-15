@@ -1,4 +1,5 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
+peepleeu.ru		REJECT  BANNED!
 oferro.com		REJECT	BANNED!
 eneobrand.pl		REJECT	BANNED!
 mediaexpln.pl		REJECT	BANNED!
