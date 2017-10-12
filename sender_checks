@@ -1,4 +1,9 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
+marr.pl			REJECT	BANNED!
+smb.pl			REJECT	BANNED!
+gssmtp.pl		REJECT	BANNED!
+myopportunity.com	REJECT	BANNED!
+karakum.xyz		REJECT  BANNED!
 fregat.xyz		REJECT	BANNED!
 peepleeu.ru		REJECT  BANNED!
 oferro.com		REJECT	BANNED!
