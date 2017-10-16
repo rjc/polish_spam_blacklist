@@ -1,4 +1,6 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
+campaignmail.pl		REJECT	BANNED!
+cloudmailing.net.pl	REJECT	BANNED!
 isof.pl			REJECT	BANNED!
 przebijam.com		REJECT	BANNED!
 marr.pl			REJECT	BANNED!
