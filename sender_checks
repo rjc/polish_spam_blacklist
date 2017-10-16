@@ -1,4 +1,8 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
+re-finance24.pl		REJECT	BANNED!
+trudnekredyty.info.pl	REJECT	BANNED!
+emailcloud.pl		REJECT	BANNED!
+championmail.pl		REJECT	BANNED!
 campaignmail.pl		REJECT	BANNED!
 cloudmailing.net.pl	REJECT	BANNED!
 isof.pl			REJECT	BANNED!
