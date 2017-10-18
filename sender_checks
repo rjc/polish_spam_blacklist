@@ -1,5 +1,6 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
 netcore.co.in		REJECT	BANNED!
+profesjonalne-tlumaczenia.com	REJECT	BANNED!
 referhire.com		REJECT	BANNED!
 ideascost.com		REJECT	BANNED!
 re-finance24.pl		REJECT	BANNED!
