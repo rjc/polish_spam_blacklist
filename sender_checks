@@ -1,4 +1,9 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
+serwervps.pl		REJECT  BANNED!
+super4u.com.pl		REJECT  BANNED!
+tvknaszapraca.pl	REJECT  BANNED!
+asystentkazarzadu.xyz	REJECT  BANNED!
+hrapoville.ru		REJECT  BANNED!
 myopportunity.email	REJECT	BANNED!
 netcore.co.in		REJECT	BANNED!
 masterkredyt.com.pl	REJECT	BANNED!
