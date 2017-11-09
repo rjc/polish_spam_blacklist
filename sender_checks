@@ -1,4 +1,9 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
+unlocktheinbox.com	REJECT	BANNED!
+seminariaszkoleniowe.pl	REJECT	BANNED!
+zwrotyedukacja.com.pl	REJECT	BANNED!
+domeny.pomorskie.pl	REJECT  BANNED!
+tampolic.com		REJECT	BANNED!
 serwervps.pl		REJECT  BANNED!
 super4u.com.pl		REJECT  BANNED!
 tvknaszapraca.pl	REJECT  BANNED!
