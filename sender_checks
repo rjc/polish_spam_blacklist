@@ -1,4 +1,7 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
+aktywnafirma.pl		REJECT	BANNED!
+kontrahenci-niemcy.com.pl	REJECT	BANNED!
+engel.stream		REJECT	BANNED!
 unlocktheinbox.com	REJECT	BANNED!
 seminariaszkoleniowe.pl	REJECT	BANNED!
 zwrotyedukacja.com.pl	REJECT	BANNED!
