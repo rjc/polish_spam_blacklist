@@ -1,4 +1,5 @@
 # Restricts which clients this system accepts SMTP connections from.
+94.152.193.0/24		REJECT	BANNED!
 80.211.128.0/18		REJECT	BANNED!
 80.211.157.0/24		REJECT	BANNED!
 80.211.161.0/24		REJECT	BANNED!
