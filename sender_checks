@@ -1,4 +1,6 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
+praca-ukraincy.com.pl	REJECT	BANNED!
+zwroty-szkolenia.com.pl REJECT  BANNED!
 .v.tld.pl		REJECT	BANNED!
 aktywnafirma.com.pl	REJECT BANNED!
 winners-gadzety.pl	REJECT BANNED!
