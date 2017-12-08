@@ -1,4 +1,5 @@
 # Restricts sender addresses this system accepts in MAIL FROM commands.
+bpkww.com		REJECT	BANNED!
 praca-ukraincy.com.pl	REJECT	BANNED!
 zwroty-szkolenia.com.pl REJECT  BANNED!
 .v.tld.pl		REJECT	BANNED!
