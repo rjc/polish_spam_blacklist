@@ -4,11 +4,11 @@ Pliki są przygotowane do użycia z postfixem
 *sender_checks* - domeny
 
 ## Kto jest dodawany do listy?
-Dodawane na liste są zarówno hosty (*serwery*) jak i klienci korzystajcy z usług firm wysyłających spam. Maile marketingowe/spam jest analizowany ręcznie, zapewnia to wysokoą skuteczność i dokładność.
-Na listę **nie** dodaje tzw. "*common spam*" - czyli spamu masowego - od tego są wynalazki w stylu *spamassasin*
+Dodawane na listę są zarówno hosty (*serwery*) jak i klienci korzystający z usług firm wysyłających spam. Maile marketingowe/spam jest analizowany ręcznie, zapewnia to wysoką skuteczność i dokładność.
+Na listę **nie** dodaje tzw. "*common spam*" - czyli spamu masowego - od tego są wynalazki w stylu *spamassassin*
 
 ## Dlaczego?
-Mam dość nachalnego marketingu zaczynającego się od "*Zapytanie o zgodę na przesłanie oferty...*" który omija istniejące prawo. Mam też dość nachalnych oferentów wysyłających wszelkiego rodzaju śmieci z ofertami sprzedarzy toarek czy ledów.
+Mam dość nachalnego marketingu zaczynającego się od "*Zapytanie o zgodę na przesłanie oferty...*" który omija istniejące prawo. Mam też dość nachalnych oferentów wysyłających wszelkiego rodzaju śmieci z ofertami sprzedaży tokarek czy LEDów.
 
 ## Jak to działa?
 *client_checks* i *sender_checks* blokują dostarczenie wiadomości na serwer pocztowy, odpowiadając wiadomością: "**BANNED**". Poczta nie jest dalej przetwarzana przez serwer.
